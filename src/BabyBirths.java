@@ -1,8 +1,4 @@
-package babyNamesTotals; /**
- * Print out total number of babies born, as well as for each gender, in a given CSV file of baby name data.
- * 
- * @author Duke Software Team 
- */
+package babyNamesTotals;
 import edu.duke.*;
 import org.apache.commons.csv.*;
 
